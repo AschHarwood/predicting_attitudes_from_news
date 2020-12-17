@@ -30,9 +30,9 @@ While this is very much a prototype, it provides a potentially new template to a
 
 ## Documentation, Code, and Data
 
-Video description of final model and results [here] (Youtube video)
+Video description of final model and results [here] (https://www.youtube.com/watch?v=LGNBgSgDZ0E&feature=youtu.be) (Youtube video)
 
-Final trained model [here] (tensorflow saved_model.pb with weights)
+Final trained model [here] (https://drive.google.com/drive/folders/1Q-KY_vrxwUrRKOyU2SpXJh_uHUsE9-at?usp=sharing)    (tensorflow saved_model.pb with weights)
 
 Final aggregated and preprocessed dataset used to train the model here (CSV).
 
@@ -45,5 +45,5 @@ Collection of jupyter notebooks for scraping, preprocessing, eda, and modeling h
 Lightly processed, unaggregated political news articles with GDELT tone scores, March 2015 - October 2020 here
 
 
-[here]:  https://www.youtube.com/watch?v=LGNBgSgDZ0E&feature=youtu.be
-[here]:  https://drive.google.com/drive/folders/1Q-KY_vrxwUrRKOyU2SpXJh_uHUsE9-at?usp=sharing
+[here]:  
+[here]:  
