@@ -30,7 +30,7 @@ While this is very much a prototype, it provides a potentially new template to a
 
 ## Documentation, Code, and Data
 
-Detailed project description, methodology, data dictionary, and findings [here]()
+Detailed project description, methodology, data dictionary, and findings [here](https://github.com/AschHarwood/predicting_attitudes_from_news/blob/master/docs/Predicting_Depression_News_Summary_12.16.20.pdf)
 
 Video description of final model and results [here](https://www.youtube.com/watch?v=LGNBgSgDZ0E&feature=youtu.be) (Youtube video)
 
