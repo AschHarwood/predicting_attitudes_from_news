@@ -30,20 +30,18 @@ While this is very much a prototype, it provides a potentially new template to a
 
 ## Documentation, Code, and Data
 
-Video description of final model and results [here] (https://www.youtube.com/watch?v=LGNBgSgDZ0E&feature=youtu.be) (Youtube video)
+Detailed project description, methodology, data dictionary, and findings [here]()
 
-Final trained model [here] (https://drive.google.com/drive/folders/1Q-KY_vrxwUrRKOyU2SpXJh_uHUsE9-at?usp=sharing)    (tensorflow saved_model.pb with weights)
+Video description of final model and results [here](https://www.youtube.com/watch?v=LGNBgSgDZ0E&feature=youtu.be) (Youtube video)
 
-Final aggregated and preprocessed dataset used to train the model here (CSV).
+Final trained model [here](https://drive.google.com/drive/folders/1Q-KY_vrxwUrRKOyU2SpXJh_uHUsE9-at?usp=sharing)    (tensorflow saved_model.pb with weights)
 
-Jupyter notebook used to train the final model here (IPYNB)
+Final aggregated and preprocessed dataset used to train the model [here](https://drive.google.com/file/d/1w8SQ0RGEl90wnfCKHj5gcB57K8n0dozb/view?usp=sharing) (CSV).
 
-Conda virtual environment to configure your own environment if you want to test the model yourself here
+Jupyter notebook used to train the final model [here](https://github.com/AschHarwood/predicting_attitudes_from_news/blob/master/notebooks/NN_Training_Trends_25k_12hrs_Final_12_17_20.ipynb) (IPYNB)
 
-Collection of jupyter notebooks for scraping, preprocessing, eda, and modeling here and description of this collection here
+Conda virtual environment to configure your own environment if you want to test the model yourself [here](https://github.com/AschHarwood/predicting_attitudes_from_news/blob/master/docs/environment.yaml)
 
-Lightly processed, unaggregated political news articles with GDELT tone scores, March 2015 - October 2020 here
+Collection of jupyter notebooks for scraping, preprocessing, eda, and modeling [here](https://github.com/AschHarwood/predicting_attitudes_from_news/tree/master/notebooks/final_report_notebooks) and description of this collection [here](https://github.com/AschHarwood/predicting_attitudes_from_news/blob/master/docs/Asch_Harwood_Read_Me_Capstone_Code_Reference%20copy.txt)
 
-
-[here]:  
-[here]:  
+Roughly 200,000 lightly processed, unaggregated political news articles with GDELT tone scores, March 2015 - October 2020 [here](https://drive.google.com/file/d/1Z7VFhfCPKLXBt-rMbGH3Ici4agQy_Wud/view?usp=sharing)
